@@ -2,7 +2,7 @@
  * @param {number[]} digits
  * @return {number[]}
  */
-var plusOne = function(digits) {
+const plusOne = function(digits) {
   /**
    * 关键 进位，满十进一
    *
